@@ -11,7 +11,7 @@ CivisCams is a high-performance computer vision suite designed for real-time hum
 
 ## 🛠️ Installation
 1. Clone the repo:
-   `git clone https://github.com/YOUR_USERNAME/CivisCams.git`
+   `git clone https://github.com/enderairofficial/CivisCams.git`
 2. Install dependencies:
    `pip install -r requirements.txt`
 3. Run the system:
